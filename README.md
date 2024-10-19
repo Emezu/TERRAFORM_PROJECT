@@ -123,3 +123,4 @@ If there are permission errors related to AWS services, check the IAM role attac
 # The project included several configuration files:
 
 $main.tf: The main Terraform configuration file used for defining the infrastructure.
+
